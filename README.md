@@ -39,6 +39,10 @@
       <img src="https://i.pinimg.com/736x/ae/b8/a6/aeb8a61183f16015337b5f5440a33ab9.jpg" width="180"/><br/>
       <b>Python</b>
     </td>
+    <td align="center">
+      <img src="https://media.licdn.com/dms/image/v2/D5610AQF_QdpAYl1azQ/image-shrink_800/image-shrink_800/0/1694534413671?e=2147483647&v=beta&t=VpzmhcH4lFdXrxx4sAsVjbxSINEbOREJ06m-Mo2egN0" width="180"/><br/>
+      <b>next.js</b>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -56,10 +60,6 @@
     <td align="center">
       <img src="https://maybe.works/media/blogs/why-is-the-nestjs-framework-a-great-option-for-web-development/1100x600.jpg" width="180"/><br/>
       <b>Nest.js</b>
-    </td>
-    <td align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D5610AQF_QdpAYl1azQ/image-shrink_800/image-shrink_800/0/1694534413671?e=2147483647&v=beta&t=VpzmhcH4lFdXrxx4sAsVjbxSINEbOREJ06m-Mo2egN0" width="180"/><br/>
-      <b>next.js</b>
     </td>
   </tr>
 </table>
