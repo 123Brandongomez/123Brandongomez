@@ -1,39 +1,51 @@
-<!-- Perfil README con animaciones verdes y negras estilo hacker -->
+<!-- Perfil README con animaciones verdes y negras estilo hacker IA real -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=900&lines=console.log('Hola%2C+soy+Brandon+Gomez');Desarrollador+Full+Stack+%F0%9F%9A%80;Code+is+my+Art;Hackeando+el+universo+digital..." alt="Typing SVG" />
-</p>
-
-
-<p align="center">
-  <img src="https://svgur.com/i/12pT.svg" width="100%" alt="Green Matrix Rain SVG Animation"/>
+  <!-- Título estilo consola -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=28&pause=600&color=00FF41&background=00000000&center=true&vCenter=true&width=900&lines=Iniciando+entorno+de+codificación...;Brandon+Gomez+%7C+Full+Stack+%7C+IA+%7C+Hacker;SISTEMA+NEURAL+ACTIVO;01100110+01101100+01101111+01110111+01110011" alt="Consola Hacker" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🔋 Animaciones de Codificación IA
 
-```diff
-+ Full Stack Developer - Apasionado por crear soluciones innovadoras.
-! Disfruto aprender y experimentar con nuevas tecnologías.
-# Siempre con actitud hacker (ética) y un toque creativo.
-```
-
----
-
-## 🚀 Tech Stack
-
+<!-- Efecto Matrix Rain SVG (flujo binario real) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,python,react,nodejs,nestjs,nextjs,prisma,postgres,mysql,mongodb,tailwind,bootstrap,css,docker&theme=dark" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="800"/>
+</p>
+
+<!-- Matrix Rain GIF fluido, super hacker -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/avinal/avinal/main/matrix.gif" width="800" />
+</p>
+
+<!-- SVG glitch de flujo de datos tipo IA (sin humanitos, solo data) -->
+<p align="center">
+  <img src="https://media.githubusercontent.com/media/bornmay/bornmay/master/assets/matrix.svg" width="800" />
+</p>
+
+<!-- Glitch de código en tiempo real, como consola de IA -->
+<p align="center">
+  <img src="https://i.imgur.com/7jbmQ5U.gif" width="800" alt="data-stream-glitch" />
+</p>
+
+<!-- Efecto de código corriendo en terminal (espejismo de flujo de IA) -->
+<p align="center">
+  <img src="https://i.imgur.com/5jX3bC2.gif" width="800" alt="terminal-real-ai" />
 </p>
 
 ---
 
-## ⚡️ Animaciones Interactivas
+## 🦾 Skills Dinámicas
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=00FF41&background=00000000&width=600&lines=Laravel+%F0%9F%91%8D;PHP+%F0%9F%9A%80;Python+%F0%9F%90%8D;React+%E2%9C%A8;Node.js+%F0%9F%92%BB;NestJS+%F0%9F%9A%A8;Next.js+%F0%9F%9A%80;Prisma+%F0%9F%8C%8D;PostgreSQL+%F0%9F%92%BE;MySQL+%F0%9F%93%8A;MongoDB+%F0%9F%92%A1;Tailwind+%F0%9F%92%A8;Bootstrap+%F0%9F%92%96;CSS+Nativo+%F0%9F%96%8B%EF%B8%8F;Docker+%F0%9F%A7%A1" alt="Stack Animado" />
-</p>
+- 🟩 **Backend:** Laravel, PHP, Python, Node.js, NestJS, Prisma
+- 🟩 **Frontend:** React, Next.js, Tailwind, Bootstrap, CSS Nativo
+- 🟩 **DBs:** MySQL, PostgreSQL, MongoDB
+- 🟩 **DevOps:** Docker
+
+---
+
+## ⚡️ Stats Hacker
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=123Brandongomez&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
@@ -42,19 +54,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=123Brandongomez&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" alt="activity graph"/>
 </p>
-
----
-
-## 🦾 Skills Dinámicas
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="600"/>
-</p>
-
-- 🟩 **Backend:** Laravel, PHP, Python, Node.js, NestJS, Prisma
-- 🟩 **Frontend:** React, Next.js, Tailwind, Bootstrap, CSS Nativo
-- 🟩 **DBs:** MySQL, PostgreSQL, MongoDB
-- 🟩 **DevOps:** Docker
 
 ---
 
@@ -75,9 +74,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Siempre+en+modo+hacker!;La+creatividad+es+mi+superpoder...;Let's+code+the+future+%F0%9F%9A%80" alt="Footer Animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=20&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Modo+Hacker+Activo;Flujos+de+Inteligencia+Artificial+En+Proceso;Sistema+en+criptografía+verde..." alt="monitor hacker" />
 </p>
-
----
-
-<!-- Puedes añadir más SVGs animados de matrix, barras de progreso o cualquier otro efecto visual que se te ocurra -->
