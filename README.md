@@ -64,11 +64,9 @@
   </tr>
 </table>
 
-<!-- Presentación con layout horizontal sin tabla -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  
-  <!-- Stack y Stats -->
-  <div>
+<!-- Layout horizontal limpio y sin bordes -->
+<div align="center">
+  <div style="display: inline-block; vertical-align: top; margin-right: 20px;">
     <p align="center">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=00FF41&background=00000000&width=600&lines=Laravel+%F0%9F%91%8D;PHP+%F0%9F%9A%80;Python+%F0%9F%90%8D;React+%E2%9C%A8;Node.js+%F0%9F%92%BB;NestJS+%F0%9F%9A%A8;Next.js+%F0%9F%9A%80;Prisma+%F0%9F%8C%8D;PostgreSQL+%F0%9F%92%BE;MySQL+%F0%9F%93%8A;MongoDB+%F0%9F%92%A1;Tailwind+%F0%9F%92%A8;Bootstrap+%F0%9F%92%96;CSS+Nativo+%F0%9F%96%8B%EF%B8%8F;Docker+%F0%9F%A7%A1" alt="Stack Animado" />
     </p>
@@ -77,11 +75,9 @@
     </p>
   </div>
 
-  <!-- GIF Hacker -->
-  <div>
+  <div style="display: inline-block; vertical-align: top;">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hhbmxrYXJhMWswem5teWFuaXRhczVnYmZqc2poeG0weXdhcWlhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" alt="Hacker GIF" height="300px" />
   </div>
-
 </div>
 
 
