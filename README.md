@@ -76,7 +76,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=📈+Mi+actividad+reciente+en+GitHub" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hhbmxrYXJhMWswem5teWFuaXRhczVnYmZqc2poeG0weXdhcWlhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" />
 </h1>
 
 
