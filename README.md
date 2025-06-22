@@ -7,6 +7,7 @@
 ---
 
 <p align="center">
+  <!-- Animación Matrix Rain -->
   <img src="assets/12pT.svg" width="100%" alt="Green Matrix Rain SVG Animation"/>
 </p>
 
@@ -27,29 +28,29 @@
 <table>
   <tr>
     <td align="center">
-      <img src="assets/nodejs-chimba.jpg" width="180"/><br/>
+      <img src="https://wallpapercave.com/wp/wp5070716.jpg" width="180"/><br/>
       <b>Node.js</b>
     </td>
     <td align="center">
-      <img src="assets/react-chimba.jpg" width="180"/><br/>
+      <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*l6s7ev65uD6otx9vV6A2AQ.png" width="180"/><br/>
       <b>React</b>
     </td>
     <td align="center">
-      <img src="assets/python-chimba.jpg" width="180"/><br/>
+      <img src="https://i.pinimg.com/736x/ae/b8/a6/aeb8a61183f16015337b5f5440a33ab9.jpg" width="180"/><br/>
       <b>Python</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/laravel-chimba.jpg" width="180"/><br/>
+      <img src="https://wallpaperaccess.com/full/1567494.png" width="180"/><br/>
       <b>Laravel</b>
     </td>
     <td align="center">
-      <img src="assets/php-chimba.jpg" width="180"/><br/>
+      <img src="https://w0.peakpx.com/wallpaper/820/189/HD-wallpaper-php-glitter-logo-programming-language-grid-metal-background-php-creative-programming-language-signs-php-logo.jpg" width="180"/><br/>
       <b>PHP</b>
     </td>
     <td align="center">
-      <img src="assets/js-chimba.jpg" width="180"/><br/>
+      <img src="https://s0.smartresize.com/wallpaper/797/913/HD-wallpaper-javascript-black-logo-programming-language-grid-metal-background-javascript-artwork-creative-programming-language-signs-javascript-logo.jpg" width="180"/><br/>
       <b>JavaScript</b>
     </td>
   </tr>
@@ -104,6 +105,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Siempre+en+modo+hacker!;La+creatividad+es+mi+superpoder...;Let's+code+the+future+%F0%9F%9A%80" alt="Footer Animado" />
+</p>
+
+<p align="center">
+  <!-- Snake animation -->
+  <img src="https://github.com/123Brandongomez/123Brandongomez/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
