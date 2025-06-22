@@ -4,14 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=900&lines=console.log('Hola%2C+soy+Brandon+Gomez');Desarrollador+Full+Stack+%F0%9F%9A%80;Code+is+my+Art;Hackeando+el+universo+digital..." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKr5z1O2Q4uBEQM/giphy.gif" width="350" />
-</p>
+
 
 ---
 
 <p align="center">
-  <img src="https://svgur.com/i/12pT.svg" width="100%" alt="Green Matrix Rain SVG Animation"/>
+  <img src="assets/12pT.svg" width="100%" alt="Green Matrix Rain SVG Animation"/>
 </p>
 
 ---
@@ -86,3 +84,9 @@
 ---
 
 <!-- Puedes añadir más SVGs animados de matrix, barras de progreso o cualquier otro efecto visual que se te ocurra -->
+
+<p align="center">
+  <a href="https://pixabay.com/es/videos/fondo-de-movimiento-movimiento-verde-210797/">
+    <img src="https://pixabay.com/es/videos/fondo-de-movimiento-movimiento-verde-210797/" alt="Ver video" width="600"/>
+  </a>
+</p>
