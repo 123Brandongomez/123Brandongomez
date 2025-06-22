@@ -10,8 +10,14 @@
 
 ---
 
+<!-- ANIMACIÓN MATRIX EN SVG -->
+
 <p align="center">
-  <img src="https://svgur.com/i/12pT.svg" width="100%" alt="Green Matrix Rain SVG Animation"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+</p>
+
+<p align="center">
+  <img src="https://svgshare.com/i/12Q3.svg" width="100%" alt="Green Matrix Rain SVG Animation"/>
 </p>
 
 ---
@@ -56,6 +62,11 @@
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="600"/>
 </p>
 
+<p align="center" style="background:#000;">
+  <img src="https://media.giphy.com/media/1yld7nW3SFssrtK4Fa/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/hp3dmE0VUeSKw/giphy.gif" width="300"/>
+</p>
+
 - 🟩 **Backend:** Laravel, PHP, Python, Node.js, NestJS, Prisma
 - 🟩 **Frontend:** React, Next.js, Tailwind, Bootstrap, CSS Nativo
 - 🟩 **DBs:** MySQL, PostgreSQL, MongoDB
@@ -75,6 +86,13 @@
   <a href="https://twitter.com/TuUsuarioAzul">
     <img src="https://img.shields.io/badge/twitter-00FF41?style=for-the-badge&logo=twitter&logoColor=black&labelColor=000000" />
   </a>
+</p>
+
+---
+
+<!-- BARRA DE PROGRESO PERSONALIZADA EN SVG -->
+<p align="center">
+  <img src="https://github.com/123Brandongomez/123Brandongomez/assets/placeholder/progress-bar-green-black.svg" alt="Barra de progreso hacker" width="450"/>
 </p>
 
 ---
