@@ -11,10 +11,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="800" alt="Snake Animation" />
 </p>
 
-<!-- Borde animado verde y negro usando SVG (efecto visual en README, no real CSS) -->
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&width=1000&height=20&color1=00FF99&color2=000000" alt="Borde Superior Animado" />
-</p>
 ---
 
 ## 👨‍💻 Sobre mí
@@ -91,10 +87,44 @@
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="600"/>
 </p>
 
-- 🟩 **Backend:** Laravel, PHP, Python, Node.js, NestJS, Prisma
-- 🟩 **Frontend:** React, Next.js, Tailwind, Bootstrap, CSS Nativo
-- 🟩 **DBs:** MySQL, PostgreSQL, MongoDB
-- 🟩 **DevOps:** Docker
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=🔥+Bienvenido+a+mi+Mundo+Backend+con+NestJS+%F0%9F%94%AE;💻+Fullstack+Developer+%7C+Matrix+Mode+On" />
+</h1>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Backend-00FF41?style=for-the-badge" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=laravel,php,python,nodejs,nestjs,prisma" />
+    </td>
+    <td><b style="color:#00FF41;">Laravel, PHP, Python, Node.js, NestJS, Prisma</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Frontend-00FF41?style=for-the-badge" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,css" />
+    </td>
+    <td><b style="color:#00FF41;">React, Next.js, Tailwind, Bootstrap, CSS Nativo</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Bases%20de%20Datos-00FF41?style=for-the-badge" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+    </td>
+    <td><b style="color:#00FF41;">MySQL, PostgreSQL, MongoDB</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-DevOps-00FF41?style=for-the-badge" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" />
+    </td>
+    <td><b style="color:#00FF41;">Docker</b></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
