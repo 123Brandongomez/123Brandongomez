@@ -1,39 +1,45 @@
-<!-- PERFIL README: ANIMACIONES VERDE/NEGRO, HACKER, IA, OTRO MUNDO -->
+<!-- ========== PERFIL README: HACKER MATRIX IA ========== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=900&lines=Bienvenido+a+mi+universo+digital;Brandon+Gomez+01100100;IA+%7C+Full+Stack+%7C+Innovación+%7C+Futuro;_Sistemas+vivientes+en+el+cyberespacio_;01001000+01000001+01000011+01001011+01000101+01010010" alt="Typing SVG" />
-</p>
-
-<!-- ANIMACIÓN MATRIX Y ALGORITMO -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="800"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=900&lines=$+iniciando+sesión+como+BrandonGomez;#%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23;Acceso+concedido;SISTEMA+NEURAL+EN+LÍNEA;01010100+01100101+01110011+01110100" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzV2bTBwM25qYnlvY3B3OGV4MWx4OTU3d3VrNnJqZTR3ZzF5eGd3aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tOZ42Mg6pbTUPHW/giphy.gif" width="800"/>
 </p>
 
-<!-- IA ALGORÍTMICA Y CÓDIGO "INCOMPRENSIBLE" VERDE -->
+<!-- MATRIX RAIN SVG ANIMACIÓN AUTÉNTICA -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="600" />
+  <img src="https://raw.githubusercontent.com/avinal/avinal/main/matrix.gif" width="100%" alt="matrix rain"/>
 </p>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="600">
+</p>
+
+<!-- GLITCH ASCII ART -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=22&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&width=900&lines=░█▀▀█░▀█▀░█───░█▀▀█;░█───░█▀█░█───░█───;░█▄▄█░█─█░█▄▄█░█▄▄█" alt="ascii hacker" />
 </p>
 
 ---
 
-## 👾 Sobre mí
+## 🟩 Terminal: Estado del Sistema
 
-```diff
-+ Desarrollador Full Stack fusionando ideas humanas y algoritmos de otro mundo.
-! Me apasiona la inteligencia artificial, el caos digital y el código incomprensible.
-# Siempre explorando los límites entre lo posible y lo imposible.
+```
+[AI-NODE][root@cyberspace]# echo "BrandonGomez iniciado"
+┌─────────────────────────────┬────────────────────────────┐
+│  INTELIGENCIA ARTIFICIAL    │    SISTEMAS EN RED         │
+├─────────────────────────────┴────────────────────────────┤
+│  Rutas abiertas:            255.255.255.0                │
+│  Protocolo:                 FULL STACK                   │
+│  Lenguajes:  PHP, Python, JS, Node, SQL, Docker, etc.    │
+└──────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🚀 Stack Tecnológico
+## 🦠 Stack alienígena
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,python,react,nodejs,nestjs,nextjs,prisma,postgres,mysql,mongodb,tailwind,bootstrap,css,docker&theme=dark" />
@@ -41,29 +47,21 @@
 
 ---
 
-## 🧬 Animaciones Hacker & IA
+## 🟢 Algoritmos y glitches
 
 <p align="center">
-  <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/hp3dmE0VUeSKw/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="320"/>
 </p>
 
 <p align="center">
-  <img src="https://svgshare.com/i/12Q3.svg" width="100%" alt="Green Matrix Rain SVG Animation"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="600"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=123Brandongomez&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" alt="activity graph"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="600" />
 </p>
 
 ---
 
-## 🟢 Contacto
+## 🟢 Contacto en la Deepnet
 
 <p align="center">
   <a href="mailto:brandon@ejemplo.com">
@@ -80,9 +78,16 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Sistema+online+%3E%3E%3E;Algoritmos+en+expansión...;El+caos+es+mi+lenguaje...;01100001+01101001+00100000+01101000+01100001+01100011+01101011+01100101+01110010" alt="Footer Animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=$+sudo+run+./inteligencia_artificial.sh;01001000+01100001+01100011+01101011+01100101+01110010+00100001;CÓDIGO+ACTIVO...;BIOS++ACTUALIZADA;ANÁLISIS+DE+DATOS+EN+PROCESO" alt="terminal hacker" />
 </p>
 
 ---
 
-<!-- Puedes añadir más SVGs animados, glitches verdes, imágenes tipo IA alienígena o algoritmos visuales incomprensibles para potenciar la vibra otro mundo -->
+<!--
+██╗░░██╗░█████╗░░█████╗░██╗░░██╗███████╗██████╗░
+██║░░██║██╔══██╗██╔══██╗██║░██╔╝██╔════╝██╔══██╗
+███████║██║░░██║██║░░██║█████═╝░█████╗░░██║░░██║
+██╔══██║██║░░██║██║░░██║██╔═██╗░██╔══╝░░██║░░██║
+██║░░██║╚█████╔╝╚█████╔╝██║░╚██╗███████╗██████╔╝
+╚═╝░░╚═╝░╚════╝░░╚════╝░╚═╝░░╚═╝╚══════╝╚═════╝░
+-->
