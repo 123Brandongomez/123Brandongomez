@@ -6,11 +6,15 @@
 
 ---
 
+<!-- Animación Snake moviéndose (verde y negro) -->
 <p align="center">
-  <!-- Animación Snake Contributions -->
-  <img src="https://github.com/123Brandongomez/123Brandongomez/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="800" alt="Snake Animation" />
 </p>
 
+<!-- Borde animado verde y negro usando SVG (efecto visual en README, no real CSS) -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&width=1000&height=20&color1=00FF99&color2=000000" alt="Borde Superior Animado" />
+</p>
 ---
 
 ## 👨‍💻 Sobre mí
