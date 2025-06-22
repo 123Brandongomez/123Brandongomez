@@ -66,7 +66,6 @@
 
 ---
 
-## ⚡️ Animaciones Interactivas
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=00FF41&background=00000000&width=600&lines=Laravel+%F0%9F%91%8D;PHP+%F0%9F%9A%80;Python+%F0%9F%90%8D;React+%E2%9C%A8;Node.js+%F0%9F%92%BB;NestJS+%F0%9F%9A%A8;Next.js+%F0%9F%9A%80;Prisma+%F0%9F%8C%8D;PostgreSQL+%F0%9F%92%BE;MySQL+%F0%9F%93%8A;MongoDB+%F0%9F%92%A1;Tailwind+%F0%9F%92%A8;Bootstrap+%F0%9F%92%96;CSS+Nativo+%F0%9F%96%8B%EF%B8%8F;Docker+%F0%9F%A7%A1" alt="Stack Animado" />
@@ -76,9 +75,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=123Brandongomez&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=123Brandongomez&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" alt="activity graph"/>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=📈+Mi+actividad+reciente+en+GitHub" />
+</h1>
+
 
 ---
 
