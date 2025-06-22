@@ -7,8 +7,8 @@
 ---
 
 <p align="center">
-  <!-- Animación Matrix Rain -->
-  <img src="assets/12pT.svg" width="100%" alt="Green Matrix Rain SVG Animation"/>
+  <!-- Animación Snake Contributions -->
+  <img src="https://github.com/123Brandongomez/123Brandongomez/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation"/>
 </p>
 
 ---
@@ -82,7 +82,6 @@
 
 ---
 
-## 🦾 Skills Dinámicas
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="600"/>
@@ -113,11 +112,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Siempre+en+modo+hacker!;La+creatividad+es+mi+superpoder...;Let's+code+the+future+%F0%9F%9A%80" alt="Footer Animado" />
-</p>
-
-<p align="center">
-  <!-- Snake animation -->
-  <img src="https://github.com/123Brandongomez/123Brandongomez/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
