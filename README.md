@@ -64,24 +64,25 @@
   </tr>
 </table>
 
-<!-- Presentación con dos columnas alineadas sin bordes -->
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="border: none; vertical-align: top;">
-      <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=00FF41&background=00000000&width=600&lines=Laravel+%F0%9F%91%8D;PHP+%F0%9F%9A%80;Python+%F0%9F%90%8D;React+%E2%9C%A8;Node.js+%F0%9F%92%BB;NestJS+%F0%9F%9A%A8;Next.js+%F0%9F%9A%80;Prisma+%F0%9F%8C%8D;PostgreSQL+%F0%9F%92%BE;MySQL+%F0%9F%93%8A;MongoDB+%F0%9F%92%A1;Tailwind+%F0%9F%92%A8;Bootstrap+%F0%9F%92%96;CSS+Nativo+%F0%9F%96%8B%EF%B8%8F;Docker+%F0%9F%A7%A1" alt="Stack Animado" />
-      </p>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=123Brandongomez&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
-      </p>
-    </td>
-    <td style="border: none; vertical-align: top;">
-      <h1 align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hhbmxrYXJhMWswem5teWFuaXRhczVnYmZqc2poeG0weXdhcWlhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" alt="Hacker GIF" />
-      </h1>
-    </td>
-  </tr>
-</table>
+<!-- Presentación con layout horizontal sin tabla -->
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  
+  <!-- Stack y Stats -->
+  <div>
+    <p align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1000&color=00FF41&background=00000000&width=600&lines=Laravel+%F0%9F%91%8D;PHP+%F0%9F%9A%80;Python+%F0%9F%90%8D;React+%E2%9C%A8;Node.js+%F0%9F%92%BB;NestJS+%F0%9F%9A%A8;Next.js+%F0%9F%9A%80;Prisma+%F0%9F%8C%8D;PostgreSQL+%F0%9F%92%BE;MySQL+%F0%9F%93%8A;MongoDB+%F0%9F%92%A1;Tailwind+%F0%9F%92%A8;Bootstrap+%F0%9F%92%96;CSS+Nativo+%F0%9F%96%8B%EF%B8%8F;Docker+%F0%9F%A7%A1" alt="Stack Animado" />
+    </p>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=123Brandongomez&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
+    </p>
+  </div>
+
+  <!-- GIF Hacker -->
+  <div>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hhbmxrYXJhMWswem5teWFuaXRhczVnYmZqc2poeG0weXdhcWlhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" alt="Hacker GIF" height="300px" />
+  </div>
+
+</div>
 
 
 <p align="center">
