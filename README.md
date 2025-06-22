@@ -46,12 +46,20 @@
       <b>Laravel</b>
     </td>
     <td align="center">
-      <img src="https://w0.peakpx.com/wallpaper/820/189/HD-wallpaper-php-glitter-logo-programming-language-grid-metal-background-php-creative-programming-language-signs-php-logo.jpg" width="180"/><br/>
+      <img src="https://s1.elespanol.com/2021/03/29/omicrono/569705523_176841925_1706x960.jpg" width="180"/><br/>
       <b>PHP</b>
     </td>
     <td align="center">
       <img src="https://s0.smartresize.com/wallpaper/797/913/HD-wallpaper-javascript-black-logo-programming-language-grid-metal-background-javascript-artwork-creative-programming-language-signs-javascript-logo.jpg" width="180"/><br/>
       <b>JavaScript</b>
+    </td>
+    <td align="center">
+      <img src="https://maybe.works/media/blogs/why-is-the-nestjs-framework-a-great-option-for-web-development/1100x600.jpg" width="180"/><br/>
+      <b>Nest.js</b>
+    </td>
+    <td align="center">
+      <img src="https://media.licdn.com/dms/image/v2/D5610AQF_QdpAYl1azQ/image-shrink_800/image-shrink_800/0/1694534413671?e=2147483647&v=beta&t=VpzmhcH4lFdXrxx4sAsVjbxSINEbOREJ06m-Mo2egN0" width="180"/><br/>
+      <b>next.js</b>
     </td>
   </tr>
 </table>
@@ -113,4 +121,3 @@
 </p>
 
 ---
-
