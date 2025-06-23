@@ -77,12 +77,11 @@
     </td>
     <td style="border: none; vertical-align: top;">
       <h1 align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hhbmxrYXJhMWswem5teWFuaXRhczVnYmZqc2poeG0weXdhcWlhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" alt="Hacker GIF" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpoZHQxOWdkenMxNHl5eGsxNzRxYXcxbzR5M2pmZGdjYzYyeHM0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Hacker GIF" />
       </h1>
     </td>
   </tr>
 </table>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="600"/>
